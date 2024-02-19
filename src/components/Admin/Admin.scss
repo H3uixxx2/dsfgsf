@@ -1,0 +1,19 @@
+$bg-img: url("../../assets/blockchain_hero_bg.png");
+.admin-container {
+  display: flex;
+  background-image: $bg-img;
+  .admin-sidebar {
+    .pro-sidebar {
+      height: 100vh !important;
+    }
+  }
+
+  .admin-content {
+    width: 100%;
+    .admin-header {
+      height: 40px;
+    }
+    .admin-main {
+    }
+  }
+}

@@ -1,0 +1,160 @@
+$bg-img: url("../../assets/blockchain_hero_bg.png");
+.store-container {
+  background-image: $bg-img;
+  width: 100%;
+  height: 100%;
+  padding: 90px 80px 0 80px;
+  background-color: #282a2a;
+  .store-left {
+    margin-left: 50px;
+    margin-right: 500px;
+    height: 600px;
+    margin-top: 40px;
+    border-radius: 20px;
+    position: relative;
+    // background-color: #03050e;
+    img  {
+      position: absolute;
+      width: 550px;
+      height: 800px;
+    }
+    .search-wrapper {
+      width: fit-content;
+      margin-top: 50px;
+      margin-left: 50px;
+      .search {
+        padding: 20px;
+        // width: 300px;
+        position: relative;
+        box-shadow: 0 0 40px rgba(51, 51, 51, 0.1);
+        input {
+          height: 40px;
+          text-indent: 25px;
+          border: 2px solid #d6d4d4;
+          &:focus {
+            box-shadow: none;
+            border: 2px solid blue;
+          }
+        }
+        .fa-search {
+          position: absolute;
+          top: 20px;
+          left: 16px;
+        }
+        button {
+          position: absolute;
+          top: 21px;
+          right: 22px;
+          width: 70px;
+          background: blue;
+        }
+      }
+    }
+    .store-features {
+      padding: 20px;
+      margin-top: 110px;
+      width: 220px;
+      .store-features__item {
+        display: flex;
+        align-items: center;
+        .store-features__img {
+          margin-left: 40px;
+          width: 370px;
+          height: 230px;
+          object-fit: cover;
+          
+        }
+        .store-features__desc {
+          font-weight: bold;
+          font-size: 40px;
+          color: #fff;
+          z-index: 10;
+          cursor: pointer;
+          &.course {
+            margin-left: 140px;
+            z-index: 10;
+            cursor: pointer;
+          }
+          &.gifts {
+            margin-left: 170px;
+            z-index: 10;
+            cursor: pointer;
+          }
+          
+        }
+        .active {
+          color: #175e9b !important;
+        }
+        &.item-2 {
+          margin-top: 190px;
+        }
+        &.item-3 {
+          margin-top: 190px;
+        }
+        
+      }
+    }
+  }
+  .store-right {
+    margin-left: -170px;
+    margin-top: 40px;
+    border-radius: 20px;
+    height: 855px;
+    z-index: 5;
+    img  {
+      position: relative;
+      z-index: 6;
+      width: 1000px;
+      height: 860px;
+      margin-left: -100px;
+    }
+    .store-courses-wrapper {
+      margin-top: -770px;
+      margin-left: -60px;
+      position: absolute;
+      display: flex;
+      gap: 0px;
+      z-index: 7;
+      flex-direction: column;
+      justify-content: center;
+      .store-courses-col1 {
+        display: flex;
+        justify-content: center;
+        .store-course__img {
+          margin-top: 16px;
+          margin-left: 30px;
+          width: 260px;
+          height: 200px;
+          object-fit: cover;
+          border-radius: 20px;
+          
+        }
+      }
+      .store-courses-col2 {
+        display: flex;
+        justify-content: center;
+        .store-course__img {
+          margin-top: 40px;
+          margin-left: 30px;
+          width: 260px;
+          height: 160px;
+          object-fit: cover;
+          border-radius: 20px;
+        }
+      }
+    }
+    .store-courses-col3 {
+      display: flex;
+      justify-content: center;
+      padding-bottom: 20px;
+      .store-course__img {
+        margin-top: 56px;
+        margin-left: 30px;
+        width: 260px;
+        height: 160px;
+        object-fit: cover;
+        border-radius: 20px;
+      }
+    }
+  }
+}

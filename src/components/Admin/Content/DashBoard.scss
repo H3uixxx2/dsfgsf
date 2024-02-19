@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+.dashboard-container {
+    background-color: #f5f5f5;
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    .dashboard-row {
+        .dashboard-col {
+            font-family: "Roboto", sans-serif;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #fff;
+            margin-right: 10px;
+            width: 300px;
+            border-radius: 10px;
+            &:first-child {
+                margin-left: 30px;
+            }
+        }
+    }
+    .portfolio-row {
+        margin-top: 40px;
+        margin-left: 30px;
+        font-family: "Roboto", sans-serif;
+        .portfolio-col {
+            font-family: "Roboto", sans-serif;
+            width: 650px;
+            padding: 30px;
+            background-color: #fff;
+            border-radius: 10px;
+            &:first-child {
+                font-family: "Roboto", sans-serif;
+                margin-right: 50px;
+                background-color: #fff;
+                border-radius: 10px;
+            }
+            h4 {
+                font-size: 28px;
+                font-family: "Roboto", sans-serif;
+            }
+            .money {
+                font-family: "Roboto", sans-serif;
+                font-size: 40px;
+                font-weight: bold;
+            }
+            .overall {
+                font-family: "Roboto", sans-serif;
+                color: #8c8c8c;
+                font-size: 20px;
+                margin-bottom: 10px;
+            }
+            button {
+                margin-right: 10px;
+            }
+        }
+    }
+    .account-container {
+        margin-top: 30px;
+        margin-left: 30px;
+        .account-col{
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            width: 650px;
+            margin-right: 50px;
+            .about-account {
+                margin-bottom: 20px;
+                h4,button {
+                    font-family: "Roboto", sans-serif;
+                    font-weight: bold;
+                }
+                button {
+                    background-color: transparent;
+                }
+            }
+        }
+        .currency-col {
+            background-color: #fff;
+            border-radius: 10px;
+            width: 650px;
+            padding: 30px;
+            h4 {
+                font-family: "Roboto", sans-serif;
+                font-weight: bold;
+            }
+            .currency-BTC,.currency-approximately {
+                font-family: "Roboto", sans-serif;
+                margin-top: 10px;
+                color: #8c8c8c;
+                font-size: 18px;
+            }
+            .currency-USD {
+                font-family: "Roboto", sans-serif;
+                font-size: 30px;
+                color: #038fde;
+                font-weight: 700;
+                letter-spacing: 3px;
+            }
+            .from-to-amount {
+                margin-top: 10px;
+                display: flex;
+                margin-bottom: 10px;
+                align-items: center;
+                justify-content: flex-start;
+                .btn-group {
+                    background-color: transparent;
+                    margin-right: 10px;
+                    border-color: #8c8c8c;
+                    .result-btn {
+                        margin-bottom: 0 !important ;
+                    }
+                    
+                }
+                
+            }
+            .btn-transfer {
+                margin-top: 10px;
+            }
+        }
+        
+    }
+    .social-media-row {
+        margin-top: 30px;
+        margin-left: 30px;
+        .social-media-col {
+            background-color: #fff;
+            padding: 30px;
+            h4 {
+                font-family: "Roboto", sans-serif;
+                margin-bottom: 10px;
+            }
+            a {
+                font-family: "Roboto", sans-serif;
+                font-weight: bold;
+            }
+            .tab-content-1 {
+                h1 {
+                    font-family: "Roboto", sans-serif;
+                    font-weight: 500;
+                    font-size: 20px;
+                }
+            }
+        }
+    }
+    .download-container {
+        background: -webkit-linear-gradient(left, #872776, #352883);
+        padding: 30px;
+        border-radius: 10px;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        .download-left {
+            h4 {
+                font-family: "Roboto", sans-serif;
+                font-weight: 500;
+                font-size: 18px;
+            }
+            p{
+                font-family: "Roboto", sans-serif;
+                font-weight: 700;
+                font-size: 22px;
+            }
+        }
+        .download-right {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+    }
+}

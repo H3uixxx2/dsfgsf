@@ -1,0 +1,128 @@
+$bg-img: url("../../assets/blockchain_hero_bg.png");
+.news-container {
+    background-image: $bg-img;
+    width: 100%;
+    height: 100%;
+    padding: 90px 80px 0 80px;
+    background-color: #282a2a;
+    padding-top: 180px;
+    padding-bottom: 100px;
+    .news__heading {
+        text-align: center;
+        h1 {
+            font-size: 36px;
+            font-weight: bold;
+        }
+        p {
+            font-size: 20px;
+        }
+    }
+    .news__content {
+        margin-top: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .news__content--left {
+            width: 63%;
+            margin-top: -80px;
+            .news-block {
+                border-radius: 10px;
+                background-color: #292e38;
+                // background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+                width: 820px;
+                padding: 10px;
+                opacity: 0.9;
+                height: 700px;
+                img {
+                    width: 800px;
+                    height: 400px;
+                    object-fit: cover;
+                    border-radius: 14px;
+                }
+                .news-desc {
+                    width: 735px;
+                    margin: auto;
+                    h3 {
+                        margin-top: 20px;
+                        font-size: 26px;
+                        font-weight: bold;
+                    }
+                    p {
+                        margin-top: 10px;
+                        font-size: 16px;
+                    }
+                    button {
+                        margin-top: 20px;
+                        background-color: #04060e;
+                        color: #fff;
+                        padding: 6px 24px;
+                        border-radius: 4px;
+                        font-size: 12px;
+                        &:hover {
+                            opacity: 0.8;
+                        }
+                    }
+                }
+                
+            }
+        }
+        .news__content--right {
+            width: 30%;
+            .search {
+                padding: 10px 20px;
+                height: 110px;
+                border-radius: 10px;
+                background-color: #292e38;
+                h3 {
+                    font-size: 26px;
+                    margin-bottom: 10px;
+                    font-weight: bold;
+                }
+                input  {
+                    background-color: #04060e;
+                    width: 350px;
+                    height: 40px;
+                    padding: 10px;
+                }
+            }
+            .recent-posts-wrapper  {
+                margin-top: 20px;
+                background-color: #292e38;
+                padding: 20px;
+                border-radius: 10px;
+                h3 {
+                    font-weight: bold;
+                }
+                .recent-post {
+                    margin-top: 20px;
+                    display: flex;
+                    img {
+                        width: 80px;
+                        height: 80px;
+                        object-fit: cover;
+                        border-radius: 4px;
+                    }
+                    .post-desc {
+                        margin-left: 20px;
+                        .time {
+                            color: #ccc;
+                        }
+                    }
+                }
+                
+            }
+            .categories  {
+                margin-top: 20px;
+                background-color: #292e38;
+                padding: 20px;
+                border-radius: 10px;
+                h3{
+                    font-weight: bold;
+                }
+                p {
+                    margin-top: 6px;
+                }
+            }
+        }
+    }
+}

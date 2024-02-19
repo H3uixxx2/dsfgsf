@@ -1,0 +1,15 @@
+$bg-img: url("../../assets/bgForInput.png");
+
+.login-container {
+  background-color: #000;
+  .left-container {
+    background-color: #1f1f1f;
+    background-image: $bg-img;
+    .form-wrapper {
+      width: 400px;
+      .login-btn {
+        width: 500px;
+      }
+    }
+  }
+}

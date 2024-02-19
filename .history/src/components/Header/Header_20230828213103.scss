@@ -1,0 +1,19 @@
+.logo-home {
+  .btn-action-wrapper {
+    .btn-login,
+    .btn-signup {
+      border: 1px solid #000;
+      &:hover {
+        background-color: #ccc;
+        transition: 0.5s;
+      }
+    }
+    .btn-signup {
+      margin-left: 6px;
+    }
+  }
+}
+
+.navbar-container {
+  color: #fff;
+}

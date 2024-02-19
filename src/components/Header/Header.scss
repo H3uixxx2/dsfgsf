@@ -1,0 +1,64 @@
+$bg-img: url("../../assets/bgForInput.png");
+
+.navbar-container {
+  // padding-top: 28px;
+  width: 100%;
+  .navbar-brand {
+    background: #0b0e13 !important;
+    // margin-left: -160px;
+    display: flex;
+    align-items: center;
+    p {
+      font-size: 30px;
+      color: #fafafa;
+    }
+    .logo-img {
+      width: 60px;
+      height: 60px;
+      margin-right: 20px;
+    }
+  }
+  .navbar-left {
+    width: 630px;
+    margin-left: 90px;
+    // margin-right: 137px !important;
+    .nav-link {
+      // border: 2px solid #fafafa;
+      border-radius: 10px;
+      padding: 6px 23px;
+      margin-right: 16px;
+      font-family: "Roboto", sans-serif;
+      color: #fff !important;
+      font-size: 22px;
+      font-weight: 600;
+      &:hover {
+        background-color: #fafafa;
+        color: #000 !important;
+        transition: 0.5s ease-in-out;
+      }
+    }
+    .active {
+      background-color: #fafafa;
+      color: #000 !important;
+    }
+  }
+  // .navbar-right {
+  //   margin-left: 340px;
+  //   width: 300px
+  // }
+  .logo-home {
+    .btn-action-wrapper {
+      .btn-login,
+      .btn-signup {
+        border: 1px solid #000;
+        &:hover {
+          background-color: #ccc;
+          transition: 0.3s;
+        }
+      }
+      .btn-signup {
+        margin-left: 6px;
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.login-container {
+  background-color: #000;
+  .left-container {
+    // background-color: #1f1f1f;
+    .bg-img {
+      z-index: -5;
+    }
+    .form-wrapper {
+      z-index: 10;
+      margin-top: -120%;
+      width: 400px;
+    }
+  }
+}

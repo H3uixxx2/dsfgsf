@@ -1,0 +1,41 @@
+$bg-img: url("../../assets/bgForInput.png");
+
+.login-container {
+  background-color: #000;
+  .left-container {
+    background-color: #1f1f1f;
+    background-image: $bg-img;
+    .form-wrapper {
+      width: 400px;
+      height: 420px;
+      display: flex;
+      //   justify-content: center;
+      flex-direction: column;
+      .login-btn {
+        width: 90%;
+        margin: auto;
+        background-color: #d9d9d9;
+        border-radius: 30px;
+        text-align: center;
+        transition: 1s;
+        &:hover {
+          color: #fff;
+          background-color: #000;
+        }
+      }
+      .google-btn {
+        margin-top: 400px;
+        width: 90%;
+        margin: auto;
+        background-color: #d9d9d9;
+        border-radius: 30px;
+        text-align: center;
+        transition: 1s;
+        &:hover {
+          color: #fff;
+          background-color: #000;
+        }
+      }
+    }
+  }
+}

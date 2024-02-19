@@ -1,0 +1,49 @@
+$bg-img: url("../../assets/blockchain_hero_bg.png");
+.ldt-container {
+  height: 100vh;
+  background-image: $bg-img;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 80px;
+  .ldt-left {
+    margin-top: 50px;
+    height: fit-content;
+    border-radius: 20px;
+    background-color: #020616;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+    width: 500px;
+    .ldt__img {
+      margin-top: 40px;
+      margin-left: 120px;
+      width: 320px;
+      height: 340px;
+    }
+    .ldt__title {
+      margin-top: 40px;
+      margin-left: 60px;
+      font-size: 50px;
+      font-weight: bold;
+      text-align: center;
+    }
+    .ldt__desc {
+      margin-left: 60px;
+      margin-top: 40px;
+      width: 400px;
+      font-size: 20px;
+      padding-bottom: 10px;
+    }
+  }
+  .ldt-right {
+    margin-top: 50px;
+    height: 770px;
+    border-radius: 20px;
+    background-color: #020616;
+    width: 70%;
+    font-size: 23px;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 25px 40px 250px;
+  }
+}

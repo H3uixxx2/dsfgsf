@@ -1,0 +1,40 @@
+$bg-img: url("../../assets/bgForInput.png");
+.ldt-container {
+  height: 100vh;
+  background-image: $bg-img;
+  display: flex;
+  justify-content: space-around;
+  .ldt-left {
+    height: fit-content;
+    border-radius: 20px;
+    background-color: #242424;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    .ldt__img {
+      width: 340px;
+      height: 340px;
+    }
+    .ldt__title {
+      margin-left: 60px;
+      font-size: 50px;
+      font-weight: bold;
+    }
+    .ldt__desc {
+      margin-left: 60px;
+      margin-top: 20px;
+      width: 300px;
+      font-size: 16px;
+    }
+  }
+  .ldt-right {
+    height: fit-content;
+    border-radius: 20px;
+    background-color: #242424;
+    width: 70%;
+    font-size: 16px;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 20px 10px 250px;
+  }
+}

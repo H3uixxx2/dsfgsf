@@ -1,0 +1,16 @@
+$bg-img: url("../../assets/bgForInput.png");
+.ldt-container {
+  height: 100vh;
+  background-image: $bg-img;
+  display: flex;
+  justify-content: space-around;
+  .ldt-left {
+    display: flex;
+    flex-direction: column;
+  }
+  .ldt-right {
+    margin-top: 60px;
+    width: 60%;
+    font-size: 20px;
+  }
+}

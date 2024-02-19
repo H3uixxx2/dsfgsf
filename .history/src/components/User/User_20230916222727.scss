@@ -1,0 +1,18 @@
+.user-container {
+  display: flex;
+  .user-sidebar {
+    .pro-sidebar {
+      height: 100vh !important;
+    }
+  }
+
+  .user-content {
+    width: 100%;
+    .user-header {
+      height: 40px;
+      border: 1px solid green;
+    }
+    .user-main {
+    }
+  }
+}
