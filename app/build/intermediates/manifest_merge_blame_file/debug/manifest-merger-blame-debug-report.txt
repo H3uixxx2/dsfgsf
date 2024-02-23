@@ -1,0 +1,69 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mongodb.tasktracker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->[io.realm:realm-android-library-object-server:10.9.0] C:\Users\ASUS\.gradle\caches\transforms-3\3e37d4dbf6569c9539a805f2799cf3fc\transformed\jetified-realm-android-library-object-server-10.9.0\AndroidManifest.xml:9:5-79
+11-->[io.realm:realm-android-library-object-server:10.9.0] C:\Users\ASUS\.gradle\caches\transforms-3\3e37d4dbf6569c9539a805f2799cf3fc\transformed\jetified-realm-android-library-object-server-10.9.0\AndroidManifest.xml:9:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->[io.realm:realm-android-library-object-server:10.9.0] C:\Users\ASUS\.gradle\caches\transforms-3\3e37d4dbf6569c9539a805f2799cf3fc\transformed\jetified-realm-android-library-object-server-10.9.0\AndroidManifest.xml:10:5-67
+12-->[io.realm:realm-android-library-object-server:10.9.0] C:\Users\ASUS\.gradle\caches\transforms-3\3e37d4dbf6569c9539a805f2799cf3fc\transformed\jetified-realm-android-library-object-server-10.9.0\AndroidManifest.xml:10:22-64
+13
+14    <application
+14-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:5:5-24:19
+15        android:name="com.mongodb.tasktracker.TaskTracker"
+15-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:6:9-36
+16        android:allowBackup="true"
+16-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:7:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\fe2bb0ca11b1891d22732c62446233b3\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:8:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:9:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:10:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:11:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:12:9-40
+26        <activity
+26-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:13:9-20:20
+27            android:name="com.mongodb.tasktracker.ProjectActivity"
+27-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:13:19-50
+28            android:exported="true" >
+28-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:14:13-36
+29            <intent-filter>
+29-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:15:13-19:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:16:17-69
+30-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:16:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:18:17-77
+32-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:18:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity android:name="com.mongodb.tasktracker.LoginActivity" />
+35-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:21:9-51
+35-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:21:19-48
+36        <activity android:name="com.mongodb.tasktracker.TaskActivity" />
+36-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:22:9-50
+36-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:22:19-47
+37        <activity android:name="com.mongodb.tasktracker.MemberActivity" />
+37-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:23:9-52
+37-->C:\Users\ASUS\Desktop\final\realm-tutorial-android-kotlin-final\app\src\main\AndroidManifest.xml:23:19-49
+38    </application>
+39
+40</manifest>

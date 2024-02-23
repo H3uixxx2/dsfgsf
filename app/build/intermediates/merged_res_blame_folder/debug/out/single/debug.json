@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\drawable_ic_plus_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\drawable\\ic_plus_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-hdpi_ic_plus_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-hdpi\\ic_plus_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xxxhdpi_ic_plus_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xxxhdpi\\ic_plus_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-mdpi_ic_plus_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-mdpi\\ic_plus_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xxxhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xxxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xhdpi_ic_plus_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xhdpi\\ic_plus_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\layout_activity_project.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\layout\\activity_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\menu_activity_task_menu.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\menu\\activity_task_menu.xml"
+    },
+    {
+        "merged": "com.mongodb.tasktracker.app-merged_res-21:/layout_activity_login.xml.flat",
+        "source": "com.mongodb.tasktracker.app-main-23:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xxhdpi_ic_plus_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xxhdpi\\ic_plus_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-hdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-hdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-anydpi-v26_ic_plus_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-anydpi-v26\\ic_plus_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\layout_project_view.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\layout\\project_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-anydpi-v26_ic_plus.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-anydpi-v26\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\layout_activity_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\layout\\activity_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-mdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-mdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\layout_task_view.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\layout\\task_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\layout_activity_member.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\layout\\activity_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\drawable_ic_plus_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\drawable\\ic_plus_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\layout_member_view.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\layout\\member_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-merged_res-21:\\mipmap-xxhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.mongodb.tasktracker.app-main-23:\\mipmap-xxhdpi\\ic_plus.png"
+    }
+]
